@@ -12,7 +12,7 @@ The application helps users monitor daily cash flow through an intuitive dashboa
 
 Users enter their bank account information and instantly receive a beautifully rendered digital account card along with a structured account summary.
 
-![Part 1 - Account Setup](dashboard_images/part1_account_entry.png)
+![Part 1 - Account Setup](dashboard.png)
 
 ---
 
@@ -27,7 +27,7 @@ The dashboard presents:
 - Running balance ledger
 - Daily transaction history
 
-![Part 2 - Daily Dashboard](dashboard_images/part2_dashboard.png)
+![Part 2 - Daily Dashboard](dashboard1.png)
 
 ---
 
